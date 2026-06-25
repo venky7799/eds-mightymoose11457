@@ -1,8 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/aemsitestrial/aem-boilerplate-xcom/main"
-    type: "markup"
-    suffix: ".html"
-  
+    url: "https://drive.google.com/drive/folders/1JgyFvoekpSM-McP5bNFy6b_hY-nzGDda"
+
 folders:
   /products/: /products/default
