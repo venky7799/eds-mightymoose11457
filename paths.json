@@ -1,0 +1,12 @@
+{
+  "mappings": [
+    "/content/2026/26/mightymoose11457/:/",
+    "/content/2026/26/mightymoose11457/configuration:/.helix/config.json",
+    "/content/2026/26/mightymoose11457/headers:/.helix/headers.json",
+    "/content/2026/26/mightymoose11457/metadata:/metadata.json",
+    "/content/2026/26/mightymoose11457.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+  ],
+  "includes": [
+    "/content/2026/26/mightymoose11457/"
+  ]
+}
