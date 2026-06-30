@@ -5,8 +5,8 @@ This project boilerplate is for AEM Authoring with Edge Delivery Services (aka C
 ## Documentation
 
 ## Environments
-- Preview: https://main--mightymoose11457--aemsitestrial.aem.page/
-- Live: https://main--mightymoose11457--aemsitestrial.aem.live/
+- Preview: https://main--eds-mightymoose11457--venky7799.aem.page/
+- Live: https://main--eds-mightymoose11457--venky7799.aem.live/
 
 Before using the boilerplate, we recommend you to go through the documentation on <https://experienceleague.adobe.com/developer/commerce/storefront/> and more specifically:
 
